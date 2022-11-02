@@ -1,1 +1,1 @@
-# This repository holds projects that I completed using the Processing Program Language
+# HERE IS SOME WORK I'VE DONE WITH THE PROCESSING PROGRAMMING LANGUAGE (https://processing.org/)
